@@ -1,0 +1,47 @@
+CREATE DATABASE IF NOT EXISTS elci_cours_soir;
+USE elci_cours_soir;
+
+CREATE TABLE students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullname VARCHAR(255) NOT NULL,
+    birth_date DATE NOT NULL,
+    birth_place VARCHAR(255) NOT NULL,
+    student_phone VARCHAR(20) NOT NULL,
+    parent_phone VARCHAR(20) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE grades (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT NOT NULL,
+    language VARCHAR(50) NOT NULL,
+    level VARCHAR(50) NOT NULL,
+    t1 DECIMAL(5,2) NOT NULL,
+    t2 DECIMAL(5,2) NOT NULL,
+    average DECIMAL(5,2) NOT NULL,
+    status VARCHAR(20) NOT NULL,
+    exam_date DATETIME NOT NULL,
+    FOREIGN KEY (student_id) REFERENCES students(id) ON DELETE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS admin_notes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    content TEXT NOT NULL,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+ALTER TABLE grades 
+ADD COLUMN is_active TINYINT(1) DEFAULT 1;
+
+ALTER TABLE grades 
+MODIFY exam_date DATETIME DEFAULT CURRENT_TIMESTAMP;
+
+
+-- Garder une seule inscription active par (étudiant, langue, niveau)
+DELETE g1 FROM grades g1
+INNER JOIN grades g2 
+WHERE g1.id < g2.id 
+  AND g1.student_id = g2.student_id 
+  AND g1.language = g2.language 
+  AND g1.level = g2.level 
+  AND g1.is_active = 1 
+  AND g2.is_active = 1;
