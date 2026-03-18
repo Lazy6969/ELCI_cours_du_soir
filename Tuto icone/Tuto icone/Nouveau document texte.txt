@@ -1,0 +1,49 @@
+🔧 Étape 1 : Créez un fichier .bat (script de lancement)
+1- Sur votre bureau, faites un clic droit → Nouveau → Document texte
+2-Renommez-le en : ELCI_Cours_du_Soir.bat
+⚠️ Si vous ne voyez pas l’extension .txt, activez "Afficher les extensions de fichiers" dans l’Explorateur. 
+3-Faites un clic droit sur le fichier → Modifier (ou ouvrez avec Bloc-notes)
+4-Collez ce code :
+
+
+@echo off
+REM === LANCEMENT DU PROJET ELCI ===
+
+REM Chemin vers Laragon (à adapter si nécessaire)
+set LARAGON_PATH=C:\laragon
+
+REM Démarrer Laragon en arrière-plan
+start "" /min "%LARAGON_PATH%\laragon.exe"
+
+REM Attendre que Laragon démarre Apache (3 secondes)
+timeout /t 3 /nobreak >nul
+
+REM Ouvrir le projet dans le navigateur par défaut
+start "" "http://elci_cours_soir.test"
+
+REM Optionnel : Minimiser la fenêtre du .bat
+exit
+
+
+
+5-Enregistrez le fichier.
+🔧 Étape 2 : Créez un raccourci joli (avec icône)
+1- Faites un clic droit sur ELCI_Cours_du_Soir.bat → Créer un raccourci
+2- Déplacez le raccourci sur le bureau
+3- Renommez-le en "ELCI Cours du Soir"
+4- Changez l’icône :
+	Clic droit → Propriétés → Changer d’icône
+	Cliquez sur Parcourir
+	Téléchargez une icône .ico (ex: https://icon-icons.com ) ou utilisez une existante
+	Sélectionnez le fichier .ico → OK
+		💡 Vous pouvez aussi utiliser une icône intégrée à Windows : 
+
+Cliquez sur Parcourir
+Tapez : C:\Windows\System32\shell32.dll
+Choisissez une icône (ex: 📚, 🎓)
+
+🔧 Étape 3 : Testez le raccourci
+1- Double-cliquez sur l’icône "ELCI Cours du Soir"
+2- → Laragon se lance en arrière-plan (fenêtre minimisée)
+3- → Le navigateur s’ouvre sur http://elci_cours_soir.test
+4- → Vous voyez votre application ELCI
