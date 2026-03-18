@@ -1,0 +1,183 @@
+
+
+[2025-10-16 15:01:40] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 2minutes avec une compte à rebour
+
+[2025-10-16 15:53:32] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 2minutes avec une compte à rebour
+STATISTIQUE regenerer
+
+[2025-10-16 16:01:36] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+
+[2025-10-16 16:02:37] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+
+[2025-10-16 16:22:53] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+L'autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+
+[2025-10-16 16:23:05] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+L'autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+
+[2025-10-16 16:23:34] Par: FIANTSOANARIVO
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+L&#039;autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+Les caractères spéciaux dans cette message
+
+[2025-10-17 20:21:54] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+LOGICIEL CAPTURE VIDEO CACHEE/IMAGE à Chaque mauvaise identification
+AUTRE API dans Android pour faire fonctionner mon application
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+L autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+Les caractères spéciaux dans cette message
+
+[2025-10-18 16:38:26] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+3 tentatives de mot de passe et attendre 1minute avec une compte à reboure
+Afficher les drapeaux selons le niveau
+L autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+Les caractères spéciaux dans cette message
+
+[2025-10-20 21:18:51] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+Afficher les drapeaux selons le niveau
+L autre niveau est modifier mais pas la selection car il est de meme ID dans students_details.php
+Les caractères spéciaux dans cette message
+
+[2025-10-20 22:31:53] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+Afficher les drapeaux selons le niveau
+Les caractères spéciaux dans cette message
+
+[2025-10-20 23:00:30] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer
+Les caractères spéciaux dans cette message
+
+[2025-10-20 23:00:58] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer et l'accès des caractères spéciaux dans cette message
+
+[2025-10-20 23:01:09] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer et l'accès des caractères spéciaux dans cette message
+
+[2025-10-20 23:26:05] Par: MIRINDRA
+EVITER LE DOUBLAGE DE NUMERO à envoyer et l&#039;accès des caractères spéciaux dans cette message
+
+[2025-10-21 02:34:04] Par: MIRINDRA
+teste heure
+
+[2025-10-20 23:34:39] Par: MIRINDRA
+teste heure
+
+[2025-10-20 23:34:45] Par: MIRINDRA
+teste heure 2
+
+[2025-10-20 23:34:47] Par: MIRINDRA
+teste heure 2
+
+[2025-10-20 23:44:48] Par: MIRINDRA
+Réunion du 21/10/2025 à 14h00
+Thème : Cours du soir – Évaluation des étudiants
+Coût estimé : 150 000 Ar
+Contact : +261 34 12 345 67
+
+[2025-10-20 23:55:54] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Anglais
+Niveau: Level 2
+T1: 100.00
+T2: 100.00
+
+[2025-10-20 23:56:54] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 11
+Langue: Anglais
+Niveau: Level 3
+T1: 0.00
+T2: 0.00
+
+[2025-10-21 00:21:09] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Anglais
+Niveau: Real Beginner
+T1: 80.00
+T2: 60.00
+
+[2025-10-21 00:21:18] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Anglais
+Niveau: Level 1
+T1: 100.00
+T2: 100.00
+
+[2025-10-21 00:21:37] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Anglais
+Niveau: Level 2
+T1: 100.00
+T2: 100.00
+
+[2025-10-21 00:23:09] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Mandarin
+Niveau: HSK3
+T1: 78.00
+T2: 98.00
+
+[2025-10-21 00:25:42] Par: MIRINDRA
+Suppression de la note : 
+Étudiant: 16
+Langue: Mandarin
+Niveau: HSK2
+T1: 100.00
+T2: 100.00
+
+[2025-10-21 00:45:54] Par: MIRINDRA
+Suppression de la note ID: 86
+[2025-10-21 01:03:09] Par: MIRINDRA
+Suppression de la note ID: 85
+[2025-10-22 11:52:33] Par: MIRINDRA
+Réunion du 21/10/2025 à 14h00
+Thème : Cours du soir – Évaluation des étudiants
+Coût estimé : 150 000 Ar
+Contact : +261 34 12 345 67
+
+[2025-10-22 19:39:22] Par: FIANTSOANARIVO
+GVCHCGHFGH
+
+[2026-02-12 08:33:43] Par: MIRINDRA
+lkguhkhgjk
+

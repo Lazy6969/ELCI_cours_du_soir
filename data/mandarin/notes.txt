@@ -1,0 +1,13 @@
+Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-16 15:08:39
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 78 | T2: 0 | Moy: 39 | Statut: Échec | Date: 2025-10-16 15:43:33
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 78 | T2: 98 | Moy: 88 | Statut: Admis | Date: 2025-10-16 15:43:56
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Mandarin | Niveau: HSK1 | T1: 98 | T2: 98 | Moy: 98 | Statut: Admis | Date: 2025-10-16 16:17:58
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Mandarin | Niveau: HSK4 | T1: 98 | T2: 98 | Moy: 98 | Statut: Admis | Date: 2025-10-16 16:18:12
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Mandarin | Niveau: HSK2 | T1: 98 | T2: 98 | Moy: 98 | Statut: Admis | Date: 2025-10-16 16:18:27
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Mandarin | Niveau: HSK2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 21:45:14
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 21:55:42
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 22:20:55
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK4 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-22 10:45:27
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 100 | T2: 0 | Moy: 50 | Statut: En cours | Date: 2025-10-22 10:51:02
+MODIFICATION | Étudiant: MARIO | Langue: Mandarin | Niveau: HSK3 | T1: 100 | T2: 50 | Moy: 75 | Statut: Admis | Date: 2025-10-22 10:51:25
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Mandarin | Niveau: HSK2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-22 11:54:14

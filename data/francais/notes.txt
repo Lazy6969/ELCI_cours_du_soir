@@ -1,0 +1,27 @@
+Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-15 21:11:24
+MODIFICATION | Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N1 | T1: 80 | T2: 0 | Moy: 40 | Statut: Échec | Date: 2025-10-15 21:12:11
+MODIFICATION | Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N1 | T1: 80 | T2: 50 | Moy: 65 | Statut: Admis | Date: 2025-10-15 21:13:24
+MODIFICATION | Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N2A | T1: 97 | T2: 0 | Moy: 48.5 | Statut: Échec | Date: 2025-10-15 21:18:36
+Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2A | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-15 21:54:46
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2A | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-15 22:00:05
+Étudiant: RALIZARA Ely Judo | Langue: Français | Niveau: N2B | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-15 22:17:45
+MODIFICATION | Étudiant: RALIZARA Ely Judo | Langue: Français | Niveau: N2B | T1: 45 | T2: 89 | Moy: 67 | Statut: Admis | Date: 2025-10-16 00:50:39
+MODIFICATION | Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N2A | T1: 97 | T2: 78.415 | Moy: 87.7075 | Statut: Admis | Date: 2025-10-16 15:43:07
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2B | T1: 79 | T2: 0 | Moy: 39.5 | Statut: Échec | Date: 2025-10-16 15:54:45
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2B | T1: 79 | T2: 56 | Moy: 67.5 | Statut: Admis | Date: 2025-10-16 15:54:49
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Français | Niveau: N1 | T1: 45 | T2: 45 | Moy: 45 | Statut: Échec | Date: 2025-10-16 16:16:40
+MODIFICATION | Étudiant: RAMANANA Mirindra Michel | Langue: Français | Niveau: N2B | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-21 00:00:41
+Étudiant: Marie Martin | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-21 01:04:47
+Étudiant: popo | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2025-10-21 01:52:24
+MODIFICATION | Étudiant: popo | Langue: Français | Niveau: N1 | T1: 100 | T2: 0 | Moy: 50 | Statut: En cours | Date: 2025-10-21 01:52:49
+MODIFICATION | Étudiant: popo | Langue: Français | Niveau: N1 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-21 01:53:19
+MODIFICATION | Étudiant: popo | Langue: Français | Niveau: N2A | T1: 46 | T2: 10 | Moy: 28 | Statut: Échec | Date: 2025-10-22 10:27:10
+Étudiant: MARIO | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2025-10-22 10:45:04
+MODIFICATION | Étudiant: MARIO | Langue: Français | Niveau: N1 | T1: 100 | T2: 0 | Moy: 50 | Statut: En cours | Date: 2025-10-22 10:51:20
+MODIFICATION | Étudiant: MARIO | Langue: Français | Niveau: N1 | T1: 100 | T2: 40.784 | Moy: 70.392 | Statut: Admis | Date: 2025-10-22 10:51:39
+MODIFICATION | Étudiant: popo | Langue: Français | Niveau: N2A | T1: 46 | T2: 100 | Moy: 73 | Statut: Admis | Date: 2025-10-22 12:51:02
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2A | T1: 98 | T2: 0 | Moy: 49 | Statut: En cours | Date: 2025-10-24 15:58:03
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2A | T1: 98 | T2: 75.654 | Moy: 86.827 | Statut: Admis | Date: 2025-10-24 15:58:16
+MODIFICATION | Étudiant: RAHARILIVA Marie Julia | Langue: Français | Niveau: N2B | T1: 25 | T2: 25 | Moy: 25 | Statut: Échec | Date: 2025-10-24 16:01:11
+Étudiant: ABRASSE BEN Soalihy Ali | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2026-01-13 13:35:23
+MODIFICATION | Étudiant: MAMINIRINA Kaela Aubert | Langue: Français | Niveau: N1 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2026-02-04 14:46:39

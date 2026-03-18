@@ -1,0 +1,43 @@
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Real Beginner | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-15 21:09:12
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Real Beginner | T1: 90 | T2: 0 | Moy: 45 | Statut: Échec | Date: 2025-10-15 21:12:52
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Real Beginner | T1: 90 | T2: 78 | Moy: 84 | Statut: Admis | Date: 2025-10-15 21:18:14
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 1 | T1: 50 | T2: 0 | Moy: 25 | Statut: Échec | Date: 2025-10-15 23:09:39
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 1 | T1: 50 | T2: 0 | Moy: 25 | Statut: Échec | Date: 2025-10-15 23:18:05
+Étudiant: MARIO | Langue: Anglais | Niveau: Real Beginner | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-16 12:30:18
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Real Beginner | T1: 80 | T2: 0 | Moy: 40 | Statut: Échec | Date: 2025-10-16 12:30:47
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Real Beginner | T1: 80 | T2: 60 | Moy: 70 | Statut: Admis | Date: 2025-10-16 12:30:59
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 1 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-16 15:09:34
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 1 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-16 15:09:34
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 1 | T1: 50 | T2: 60.78 | Moy: 55.39 | Statut: Admis | Date: 2025-10-16 15:42:32
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 1 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-16 15:52:11
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 2 | T1: 10 | T2: 30 | Moy: 20 | Statut: Échec | Date: 2025-10-16 15:55:39
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Real Beginner | T1: 45 | T2: 45 | Moy: 45 | Statut: Échec | Date: 2025-10-16 16:15:20
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 3 | T1: 45 | T2: 45 | Moy: 45 | Statut: Échec | Date: 2025-10-16 16:15:48
+Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 4 | T1: 45 | T2: 45 | Moy: 45 | Statut: Échec | Date: 2025-10-16 16:16:01
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 4 | T1: 45 | T2: 45 | Moy: 45 | Statut: Échec | Date: 2025-10-16 16:19:53
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 3 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-17 20:20:42
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 21:54:21
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 2 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-20 21:55:22
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 21:55:29
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 2 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-20 22:16:05
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 22:16:13
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 3 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-20 22:16:31
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 3 | T1: 100 | T2: 90 | Moy: 95 | Statut: Admis | Date: 2025-10-20 22:16:40
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 3 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 22:20:49
+MODIFICATION | Étudiant: MARIO | Langue: Anglais | Niveau: Level 2 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-20 23:47:54
+MODIFICATION | Étudiant: RAMANAMIHARY Zo Ny Andrianina | Langue: Anglais | Niveau: Level 3 | T1: 0 | T2: 0 | Moy: 0 | Statut: Échec | Date: 2025-10-20 23:56:35
+Étudiant: PAUL Jean Bary | Langue: Anglais | Niveau: Real Beginner | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2025-10-22 10:41:00
+MODIFICATION | Étudiant: PAUL Jean Bary | Langue: Anglais | Niveau: Real Beginner | T1: 45 | T2: 0 | Moy: 22.5 | Statut: En cours | Date: 2025-10-22 10:42:54
+MODIFICATION | Étudiant: PAUL Jean Bary | Langue: Anglais | Niveau: Real Beginner | T1: 45 | T2: 80 | Moy: 62.5 | Statut: Admis | Date: 2025-10-22 10:43:03
+MODIFICATION | Étudiant: PAUL Jean Bary | Langue: Anglais | Niveau: Level 1 | T1: 100 | T2: 0 | Moy: 50 | Statut: En cours | Date: 2025-10-22 12:50:03
+MODIFICATION | Étudiant: PAUL Jean Bary | Langue: Anglais | Niveau: Level 1 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-22 12:50:08
+Étudiant: TEST | Langue: Anglais | Niveau: Level 3 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2025-10-22 19:29:49
+MODIFICATION | Étudiant: TEST | Langue: Anglais | Niveau: Level 3 | T1: 75 | T2: 0 | Moy: 37.5 | Statut: En cours | Date: 2025-10-22 19:30:12
+MODIFICATION | Étudiant: TEST | Langue: Anglais | Niveau: Level 3 | T1: 75 | T2: 90.65 | Moy: 82.825 | Statut: Admis | Date: 2025-10-22 19:31:01
+Étudiant: test ok | Langue: Anglais | Niveau: Level 2 | T1: 0 | T2: 0 | Moy: 0 | Statut: En cours | Date: 2025-10-23 15:45:53
+MODIFICATION | Étudiant: test ok | Langue: Anglais | Niveau: Level 2 | T1: 100 | T2: 0 | Moy: 50 | Statut: En cours | Date: 2025-10-23 15:46:23
+MODIFICATION | Étudiant: TEST | Langue: Anglais | Niveau: Level 4 | T1: 100 | T2: 100 | Moy: 100 | Statut: Admis | Date: 2025-10-30 15:27:18
+MODIFICATION | Étudiant: FANOMEZANTSOA Jeanne Dominique | Langue: Anglais | Niveau: Level 3 | T1: 98 | T2: 0 | Moy: 49 | Statut: En cours | Date: 2026-01-13 09:35:20
+MODIFICATION | Étudiant: FANOMEZANTSOA Jeanne Dominique | Langue: Anglais | Niveau: Level 3 | T1: 98 | T2: 75 | Moy: 86.5 | Statut: Admis | Date: 2026-01-13 09:36:16
+MODIFICATION | Étudiant: FANOMEZANTSOA Jeanne Dominique | Langue: Anglais | Niveau: Level 4 | T1: 70 | T2: 70 | Moy: 70 | Statut: Admis | Date: 2026-01-13 10:20:29
+MODIFICATION | Étudiant: ALLEMENT Fréderic | Langue: Anglais | Niveau: Real Beginner | T1: 90 | T2: 60 | Moy: 75 | Statut: Admis | Date: 2026-01-13 13:36:29

@@ -1,0 +1,13 @@
+ID:  | Nom: RAMANAMIHARY Zo Ny Andrianina | Naissance: 2005-10-04 à Moramanga | Étud: 03568125455 | Parent: 4865465454 | Date: 2025-10-15 21:08:19
+ID:  | Nom: RAMANANA Mirindra Michel | Naissance: 2005-04-12 à Moramanga | Étud: 03568125455 | Parent: 4865465454 | Date: 2025-10-15 21:11:05
+ID:  | Nom: RANDRIATSIFERANA Jean Louis | Naissance: 1993-12-14 à Moramanga | Étud: 03568125455 | Parent: 4865465454 | Date: 2025-10-15 21:27:56
+ID:  | Nom: RAHARILIVA Marie Julia | Naissance: 2025-07-06 à Mapikony | Étud: 03568125455 | Parent: 4865465454 | Date: 2025-10-15 21:28:36
+ID:  | Nom: RALIZARA Ely Judo | Naissance: 2005-12-06 à Mahajanga | Étud: 03568125455 | Parent: 4865465454 | Date: 2025-10-15 22:00:47
+ID:  | Nom: MARIO | Naissance: 2003-03-07 à Mahajanga | Étud: 0377519679 | Parent: 0327748942 | Date: 2025-10-16 12:07:38
+ID:  | Nom: DODA | Naissance: 2006-11-03 à Mahajanga | Étud: 111111111 | Parent: 111111111 | Date: 2025-10-16 15:40:01
+ID:  | Nom: RAKOTO TEST | Naissance: 1996-01-01 à Mapikony | Étud: 0380746987 | Parent: 03489966523 | Date: 2025-10-21 01:36:06
+ID:  | Nom: popo | Naissance: 2005-05-05 à Mapikony | Étud: 0380746987 | Parent: 03489966523 | Date: 2025-10-21 01:52:08
+ID:  | Nom: PAUL Jean Bary | Naissance: 2006-04-12 à Soavanandrina | Étud: 0399632214 | Parent: 0364255897 | Date: 2025-10-22 10:30:55
+ID:  | Nom: TEST | Naissance: 2005-02-01 à Mahajanga | Étud: 0399632214 | Parent: 0364255897 | Date: 2025-10-22 19:28:51
+ID:  | Nom: test ok | Naissance: 2005-04-01 à Mapikony | Étud: 0349966685 | Parent: 032455559 | Date: 2025-10-23 15:45:32
+ID:  | Nom: KOKOTY | Naissance: 2008-04-23 à Moramanga | Étud: 0399632214 | Parent: 0364255897 | Date: 2025-10-30 15:24:26
